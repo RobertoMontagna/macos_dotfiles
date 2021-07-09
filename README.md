@@ -1,1 +1,1 @@
-# macos_dotfiles
+# macOS BigSur personal configuration
