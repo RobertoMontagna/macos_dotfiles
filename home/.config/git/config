@@ -1,7 +1,5 @@
 [user]
 	name = Roberto Montagna
 	email = montagna.roberto@gmail.com
-[core]
-	excludesfile = /Users/roberto/.gitignore
 [credential]
 	helper = osxkeychain
